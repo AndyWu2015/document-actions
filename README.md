@@ -1,2 +1,2 @@
 # Document Actions
-Code to support the blog post concerning Display Context
+Code to support the blog post concerning Display Context.
